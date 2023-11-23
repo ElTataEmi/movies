@@ -32,3 +32,5 @@ let masVotadas = {
         return promedios.toFixed(2)
     }, 
 }
+
+module.exports = masVotadas
